@@ -10,7 +10,7 @@ Developing [Me, My Mech and I](https://memymech.com) -- an upcoming rogue-like f
 ### **Emma Fringuelli** - Art
 - [Twitter](https://twitter.com/emfring)
 
-### **Mur Laugherty** - Narrative
+### **Mur Lafferty** - Narrative
 - [Twitter](https://twitter.com/mightymur)
 - [Website](https://https://murverse.com/)
 
