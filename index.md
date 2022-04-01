@@ -12,7 +12,7 @@ Developing [Me, My Mech and I](https://memymech.com) -- an upcoming rogue-like f
 
 ### **Mur Lafferty** - Narrative
 - [Twitter](https://twitter.com/mightymur)
-- [Website](https://https://murverse.com/)
+- [Website](https://murverse.com/)
 
 ### **Code name: Lady Baloogabeans** - Engineering
 - REDACTED
