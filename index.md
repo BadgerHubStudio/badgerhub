@@ -1,6 +1,6 @@
 # Coming Soon 
 
-Developing [Me, My Mech, and I](https://memymech.com) -- an upcoming rogue-like farming simulation.
+Developing [Me, My Mech and I](https://memymech.com) -- an upcoming rogue-like farming simulation.
 
 ## Stay in the know in the now:
 - [On Twitter](https://twitter.com/badgerhub)
